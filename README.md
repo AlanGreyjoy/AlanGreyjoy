@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alangreyjoy" alt="alangreyjoy" /></a> </p>
 
-- 🔭 I’m currently working on [HeartCraft - A Cozy Infinite Crafter](https://hearthcraft-ee7f8.web.app/)
-- 🤖 I'm also currently working on [Docuforge - AI powered code base documentation service](https://docuforge.io)
+- 🔭 I’m currently working on [HotasHelper - A HOTAS Stick Configurator](https://hotashelper.com)
 
 - 📫 How to reach me **alanspurlock@hotmail.com**
 
