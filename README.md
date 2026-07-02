@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Spurlock</h1>
-<h3 align="center">Lead Sr. Software Engineer and Solutions Architect</h3>
+<h3 align="center">Staff Software Engineer and Solutions Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alangreyjoy&label=Profile%20views&color=0e75b6&style=flat" alt="alangreyjoy" /> </p>
 
